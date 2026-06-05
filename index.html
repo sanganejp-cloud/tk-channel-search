@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>三兄弟ダディTK｜お金の動画検索 - 知りたいことをそのまま聞ける</title>
+<meta name="description" content="三兄弟ダディTKの金融教育動画を、自然な質問で検索。FP2級の三兄弟のパパが、お金の判断力を育てる動画を投稿しています。">
+<meta property="og:title" content="三兄弟ダディTK｜お金の動画検索">
+<meta property="og:description" content="知りたいお金のテーマを質問するだけ。関連動画がすぐ見つかります。">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#1e3a8a">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0 }
+:root { color-scheme: light }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+  background: linear-gradient(180deg, #f0f4ff 0%, #fce7f3 100%);
+  color: #1e293b;
+  min-height: 100vh;
+  padding: 20px 16px;
+}
+.container { max-width: 760px; margin: 0 auto; }
+.hero {
+  background: linear-gradient(135deg, #1e3a8a 0%, #7c3aed 100%);
+  color: white;
+  padding: 28px 24px;
+  border-radius: 16px;
+  margin-bottom: 24px;
+  box-shadow: 0 8px 24px rgba(30, 58, 138, 0.2);
+  text-align: center;
+}
+.hero h1 { font-size: 22px; margin-bottom: 8px; font-weight: 800; }
+.hero .sub { font-size: 12px; opacity: 0.92; line-height: 1.6; }
+.hero .channel-tag {
+  display: inline-block;
+  background: rgba(255,255,255,0.2);
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 10px;
+  margin-top: 8px;
+}
+.search-box {
+  background: white;
+  border-radius: 14px;
+  padding: 18px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.search-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569;
+  margin-bottom: 8px;
+}
+.search-row { display: flex; gap: 8px; }
+#q {
+  flex: 1;
+  padding: 12px 14px;
+  border: 2px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 15px;
+  font-family: inherit;
+}
+#q:focus { outline: none; border-color: #2563eb; }
+.btn-search {
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.btn-search:active { transform: translateY(1px); }
+.examples {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.ex-chip {
+  font-size: 11px;
+  background: #eff6ff;
+  color: #1e40af;
+  border: 1px solid #bfdbfe;
+  padding: 5px 12px;
+  border-radius: 16px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.ex-chip:hover { background: #dbeafe; }
+.status {
+  font-size: 11px;
+  color: #64748b;
+  margin: 12px 4px;
+}
+.result-card {
+  background: white;
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 12px;
+  border: 1px solid #e2e8f0;
+  transition: all 0.2s;
+}
+.result-card:hover {
+  border-color: #2563eb;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1);
+  transform: translateY(-2px);
+}
+.r-rank {
+  display: inline-block;
+  background: linear-gradient(135deg, #f59e0b, #ef4444);
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-size: 12px;
+  font-weight: 800;
+  margin-right: 8px;
+}
+.r-rank.r2 { background: linear-gradient(135deg, #94a3b8, #64748b); }
+.r-rank.r3 { background: linear-gradient(135deg, #a78bfa, #7c3aed); }
+.r-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #1e3a8a;
+  margin: 4px 0 8px 0;
+  line-height: 1.4;
+}
+.r-excerpt {
+  font-size: 12px;
+  color: #475569;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  background: #f8fafc;
+  border-left: 3px solid #2563eb;
+  border-radius: 0 6px 6px 0;
+}
+.r-tags { font-size: 10px; color: #64748b; margin-bottom: 10px; }
+.r-tag {
+  display: inline-block;
+  background: #f1f5f9;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 4px;
+}
+.r-buttons { display: flex; gap: 6px; flex-wrap: wrap; }
+.r-btn {
+  font-size: 12px;
+  padding: 8px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  color: white;
+}
+.r-btn.yt { background: #dc2626; }
+.r-btn.tt { background: #000; }
+.r-btn.ig { background: linear-gradient(135deg, #f09433, #dc2743 50%, #bc1888); }
+.r-btn:hover { opacity: 0.9; }
+.empty {
+  text-align: center;
+  padding: 40px 20px;
+  color: #94a3b8;
+  font-size: 14px;
+}
+.footer {
+  text-align: center;
+  margin-top: 32px;
+  padding: 20px;
+  font-size: 11px;
+  color: #94a3b8;
+  line-height: 1.6;
+}
+.footer a { color: #2563eb; text-decoration: none; }
+.disclaimer {
+  font-size: 10px;
+  color: #94a3b8;
+  margin-top: 16px;
+  padding: 10px;
+  background: #f8fafc;
+  border-radius: 6px;
+}
+@media (min-width: 640px) {
+  .hero h1 { font-size: 26px; }
+}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+</head>
+<body>
+<div class="container">
+
+  <div class="hero">
+    <div class="channel-tag">📺 三兄弟ダディ TK チャンネル</div>
+    <h1 style="margin-top:6px">お金の動画、ぜんぶここから探せます</h1>
+    <div class="sub">
+      FP2級・整備士・不動産投資もやる三兄弟のパパが、<br>
+      お金の判断力を子どもに教える視点で発信しています。<br>
+      気になるテーマを質問してください。
+    </div>
+  </div>
+
+  <div class="search-box">
+    <div class="search-label">🔍 知りたいことを入力してください</div>
+    <div class="search-row">
+      <input id="q" type="text" placeholder="例：新NISAって、結局いくらから始めればいい？" autofocus />
+      <button class="btn-search" onclick="doSearch()">検索</button>
+    </div>
+    <div class="examples">
+      <div class="ex-chip" onclick="useExample(this)">複利</div>
+      <div class="ex-chip" onclick="useExample(this)">投資</div>
+      <div class="ex-chip" onclick="useExample(this)">子どもにお金</div>
+      <div class="ex-chip" onclick="useExample(this)">家賃 持ち家</div>
+      <div class="ex-chip" onclick="useExample(this)">資格</div>
+      <div class="ex-chip" onclick="useExample(this)">商売 経営</div>
+      <div class="ex-chip" onclick="useExample(this)">NISA</div>
+      <div class="ex-chip" onclick="useExample(this)">節約</div>
+      <div class="ex-chip" onclick="useExample(this)">老後</div>
+    </div>
+  </div>
+
+  <div id="status" class="status">📚 動画リストを読み込み中…</div>
+  <div id="results"></div>
+
+  <div class="disclaimer">
+    ※この動画は教育・情報提供を目的としています。投資・家計の最終判断はご自身の責任でお願いします。
+  </div>
+
+  <div class="footer">
+    📺 <a href="https://www.youtube.com/@%E4%B8%89%E5%85%84%E5%BC%9F%E3%83%80%E3%83%87%E3%82%A3TK%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB" target="_blank">YouTube チャンネル登録</a><br>
+    🔔 チャンネル登録で、毎日の「お金の話」もお見逃しなく
+  </div>
+
+</div>
+
+<script>
+let allVideos = [];
+let fuse = null;
+
+async function init() {
+  try {
+    const res = await fetch('videos.json?t=' + Date.now());
+    if (!res.ok) throw new Error('videos.json が見つかりません');
+    allVideos = await res.json();
+    document.getElementById('status').innerHTML = `📚 <strong>${allVideos.length}</strong> 本の動画から検索できます`;
+    // Fuse.js セットアップ
+    fuse = new Fuse(allVideos, {
+      keys: [
+        { name: 'title', weight: 3 },
+        { name: 'script', weight: 1 },
+        { name: 'tags', weight: 2 },
+      ],
+      threshold: 0.4,
+      includeScore: true,
+      minMatchCharLength: 2,
+    });
+  } catch(e) {
+    document.getElementById('status').innerHTML = `⚠ ${e.message}`;
+    console.error(e);
+  }
+}
+
+function useExample(el) {
+  document.getElementById('q').value = el.textContent;
+  doSearch();
+}
+
+function doSearch() {
+  const q = document.getElementById('q').value.trim();
+  if (!q) { return; }
+  if (!fuse) { return; }
+  const results = fuse.search(q, { limit: 10 });
+  if (!results.length) {
+    document.getElementById('results').innerHTML =
+      `<div class="empty">「${escapeHtml(q)}」に該当する動画が見つかりませんでした。<br>キーワードを変えてお試しください。</div>`;
+    return;
+  }
+  const cards = results.slice(0, 10).map((r, rank) => {
+    const v = r.item;
+    const buttons = [];
+    if (v.yt) buttons.push(`<a class="r-btn yt" href="${escapeHtml(v.yt)}" target="_blank" rel="noopener">▶ YouTube</a>`);
+    if (v.tt) buttons.push(`<a class="r-btn tt" href="${escapeHtml(v.tt)}" target="_blank" rel="noopener">▶ TikTok</a>`);
+    if (v.ig) buttons.push(`<a class="r-btn ig" href="${escapeHtml(v.ig)}" target="_blank" rel="noopener">▶ Instagram</a>`);
+    const rankClass = rank === 0 ? '' : (rank === 1 ? 'r2' : 'r3');
+    const tags = (v.tags || []).slice(0, 5).map(t => `<span class="r-tag">${escapeHtml(t)}</span>`).join('');
+    // ハイライト：質問のキーワードを台本から抜粋
+    const excerpt = extractExcerpt(v.script, q);
+    return `
+      <div class="result-card">
+        <div>
+          <span class="r-rank ${rankClass}">${rank+1}</span>
+          <span style="font-size:10px;color:#94a3b8">${escapeHtml(v.sid)}</span>
+        </div>
+        <div class="r-title">${escapeHtml(v.title)}</div>
+        ${excerpt ? `<div class="r-excerpt">${escapeHtml(excerpt)}</div>` : ''}
+        ${tags ? `<div class="r-tags">${tags}</div>` : ''}
+        <div class="r-buttons">${buttons.join('')}</div>
+      </div>`;
+  }).join('');
+  document.getElementById('results').innerHTML = cards;
+  // URL に検索キーワードを反映（シェア可能）
+  history.replaceState(null, '', '?q=' + encodeURIComponent(q));
+}
+
+function extractExcerpt(script, q) {
+  if (!script) return '';
+  // キーワード周辺 120 字を抜粋
+  const tokens = q.split(/\s+/).filter(t => t.length >= 2);
+  for (const t of tokens) {
+    const idx = script.indexOf(t);
+    if (idx >= 0) {
+      const start = Math.max(0, idx - 30);
+      const end = Math.min(script.length, idx + t.length + 90);
+      return (start > 0 ? '…' : '') + script.slice(start, end) + (end < script.length ? '…' : '');
+    }
+  }
+  return script.slice(0, 120) + '…';
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+document.getElementById('q').addEventListener('keydown', e => {
+  if (e.key === 'Enter') doSearch();
+});
+
+// URL クエリパラメータから初期検索
+window.addEventListener('load', async () => {
+  await init();
+  const urlQ = new URLSearchParams(location.search).get('q');
+  if (urlQ) {
+    document.getElementById('q').value = urlQ;
+    doSearch();
+  }
+});
+</script>
+
+</body>
+</html>
