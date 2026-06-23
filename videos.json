@@ -77,8 +77,8 @@
    "マインドセット",
    "子供向け"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 77.5,
+  "analytics_views": 2
  },
  {
   "sid": "VID-64",
@@ -88,8 +88,8 @@
   "tt": "",
   "ig": "",
   "tags": [],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 27.4,
+  "analytics_views": 2
  },
  {
   "sid": "VID-63",
@@ -225,8 +225,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 22.4,
+  "analytics_views": 301
  },
  {
   "sid": "VID-52",
@@ -241,7 +241,7 @@
    "子供向け"
   ],
   "retention_pct": 36.3,
-  "analytics_views": 263
+  "analytics_views": 264
  },
  {
   "sid": "VID-51",
