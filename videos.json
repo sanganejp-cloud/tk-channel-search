@@ -24,8 +24,8 @@
    "マインドセット",
    "複利"
   ],
-  "retention_pct": 65.5,
-  "analytics_views": 1370
+  "retention_pct": 64.3,
+  "analytics_views": 1378
  },
  {
   "sid": "VID-68",
@@ -184,8 +184,8 @@
   "tt": "",
   "ig": "",
   "tags": [],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 28.2,
+  "analytics_views": 1149
  },
  {
   "sid": "VID-55",
@@ -199,8 +199,8 @@
    "マインドセット",
    "投資"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 19.6,
+  "analytics_views": 535
  },
  {
   "sid": "VID-54",
@@ -226,7 +226,7 @@
    "親世代向け"
   ],
   "retention_pct": 24.7,
-  "analytics_views": 303
+  "analytics_views": 302
  },
  {
   "sid": "VID-52",
@@ -241,7 +241,7 @@
    "子供向け"
   ],
   "retention_pct": 36.3,
-  "analytics_views": 264
+  "analytics_views": 265
  },
  {
   "sid": "VID-51",
@@ -252,7 +252,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 23.0,
-  "analytics_views": 437
+  "analytics_views": 434
  },
  {
   "sid": "VID-50",
@@ -266,7 +266,7 @@
    "家計",
    "子供向け"
   ],
-  "retention_pct": 42.1,
+  "retention_pct": 42.4,
   "analytics_views": 472
  },
  {
@@ -413,8 +413,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647612451713781012",
   "ig": "",
   "tags": [],
-  "retention_pct": 65.5,
-  "analytics_views": 1370
+  "retention_pct": 64.3,
+  "analytics_views": 1378
  },
  {
   "sid": "VID-36",
@@ -502,8 +502,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7645962107745357077",
   "ig": "https://www.instagram.com/reel/DZB99oGsGV1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   "tags": [],
-  "retention_pct": 50.2,
-  "analytics_views": 1000
+  "retention_pct": 50.1,
+  "analytics_views": 1001
  },
  {
   "sid": "VID-23",
@@ -747,8 +747,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 22.6,
-  "analytics_views": 376
+  "retention_pct": 21.1,
+  "analytics_views": 384
  },
  {
   "sid": "VID-1",
@@ -761,7 +761,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 36.4,
-  "analytics_views": 340
+  "retention_pct": 35.7,
+  "analytics_views": 344
  }
 ]
