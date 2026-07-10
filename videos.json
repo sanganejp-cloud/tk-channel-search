@@ -10,7 +10,7 @@
    "マインドセット"
   ],
   "retention_pct": 51.2,
-  "analytics_views": 10
+  "analytics_views": 11
  },
  {
   "sid": "VID-87",
@@ -21,7 +21,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 51.2,
-  "analytics_views": 10
+  "analytics_views": 11
  },
  {
   "sid": "VID-85",
@@ -79,7 +79,7 @@
    "マインドセット"
   ],
   "retention_pct": 51.2,
-  "analytics_views": 10
+  "analytics_views": 11
  },
  {
   "sid": "VID-80",
@@ -103,8 +103,8 @@
   "tt": "",
   "ig": "",
   "tags": [],
-  "retention_pct": 9.6,
-  "analytics_views": 1
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-76",
@@ -118,8 +118,8 @@
    "親世代向け",
    "マインドセット"
   ],
-  "retention_pct": 1.9,
-  "analytics_views": 1
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-73",
@@ -133,7 +133,7 @@
    "マインドセット",
    "節約"
   ],
-  "retention_pct": 0.0,
+  "retention_pct": 0,
   "analytics_views": 0
  },
  {
@@ -147,8 +147,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 14.3,
-  "analytics_views": 2
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-71",
@@ -161,8 +161,8 @@
    "税金",
    "家計"
   ],
-  "retention_pct": 4.7,
-  "analytics_views": 1
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-70",
@@ -187,7 +187,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 51.2,
-  "analytics_views": 10
+  "analytics_views": 11
  },
  {
   "sid": "VID-68",
@@ -488,7 +488,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 30.2,
-  "analytics_views": 351
+  "analytics_views": 353
  },
  {
   "sid": "VID-44",
@@ -679,8 +679,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 4.2,
-  "analytics_views": 2
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-24",
@@ -693,8 +693,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 10.2,
-  "analytics_views": 3
+  "retention_pct": 26.8,
+  "analytics_views": 5
  },
  {
   "sid": "VID-23",
