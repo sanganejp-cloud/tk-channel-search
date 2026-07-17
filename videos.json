@@ -93,7 +93,7 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
@@ -132,7 +132,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 9.6,
-  "analytics_views": 2
+  "analytics_views": 3
  },
  {
   "sid": "VID-76",
@@ -721,8 +721,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 35.9,
-  "analytics_views": 7
+  "retention_pct": 43.9,
+  "analytics_views": 8
  },
  {
   "sid": "VID-23",
@@ -941,8 +941,8 @@
  },
  {
   "sid": "VID-3",
-  "title": "コップの水は飲まず溢れた水を飲む原則",
-  "script": "",
+  "title": "給料が上がっても暮らしを上げるな。FPの父が子に教えた3つの理由",
+  "script": "給料が上がった月ほど、我が家の暮らしは一円も変わりません。 僕は整備士として独立し、いくつも事業を回して収入が跳ねた年も、家族の生活費はわざと据え置きました。理由は三つあります。 多くの家は、収入が増えた瞬間に家や車のグレードを上げます。でもそれをやると、どれだけ稼いでも手元にお金は残りません。コップの水は飲まない、溢れた水だけを飲む。これが我が家のお金の掟です。 一つ目は、コップの水、つまり毎月の生活費は、収入が増えても絶対に増やさないこと。器を大きくした瞬間、貯める力は消えます。 二つ目は、溢れた水、つまり増えた分だけを、投資や家族の体験に回すこと。元手には手をつけず、こぼれた分だけで人生を楽しむ。だから資産は減りません。 三つ目は、これを言葉ではなく、子どもに背中で見せること。「稼ぎが増えたのに、なんで暮らしは変えないの」。三兄弟にそう聞かれた時が、我が家で一番のお金の授業になりまし",
   "yt": "https://youtu.be/nExswRLM7Us",
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7643489301925203221?is_from_webapp=1&sender_device=pc",
   "ig": "https://www.instagram.com/reel/DYuh1_XsYvt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
