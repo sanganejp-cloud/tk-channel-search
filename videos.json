@@ -120,7 +120,7 @@
    "家計",
    "複利"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
@@ -132,7 +132,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 9.6,
-  "analytics_views": 1
+  "analytics_views": 2
  },
  {
   "sid": "VID-76",
@@ -161,8 +161,8 @@
    "マインドセット",
    "節約"
   ],
-  "retention_pct": 0.0,
-  "analytics_views": 0
+  "retention_pct": 16.5,
+  "analytics_views": 2
  },
  {
   "sid": "VID-72",
@@ -401,7 +401,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 21.0,
-  "analytics_views": 314
+  "analytics_views": 315
  },
  {
   "sid": "VID-53",
@@ -721,8 +721,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 25.2,
-  "analytics_views": 6
+  "retention_pct": 35.9,
+  "analytics_views": 7
  },
  {
   "sid": "VID-23",
@@ -956,8 +956,8 @@
  },
  {
   "sid": "VID-2",
-  "title": "鶏と卵で考える複利",
-  "script": "",
+  "title": "お金が増えない人ほど\"鶏\"を食べる：三兄弟に教えた複利の3原則",
+  "script": "お金が増えない人ほど、卵を産む鶏を食べています。整備士から不動産投資まで20年、現場で稼いできた僕がたどり着いた結論です。子どもに伝えたい原則は3つあります。 うちには三兄弟がいて、お年玉をこう教えました。元手＝鶏は絶対に食べない。そこから生まれる卵＝利息や家賃だけを使う。これが複利のいちばんの入口です。 1つ目は、鶏を数えないこと。多くの人は口座の残高ばかり気にして、卵が増える速さを見ていません。大事なのは今いくらではなく、どれだけ卵を産むかです。 2つ目は、卵を我慢する年を作ること。生まれた卵を使わず、もう一度鶏に変える。この一手間があるかないかで、10年後の差が大きく開きます。 3つ目は、鶏を売らないこと。僕も現金が苦しい時、収益物件を手放したくなりました。でも売れば卵はゼロになる。鶏を残したから、今があります。 貯金が増えない本当の原因は、収入の少なさじゃありません。鶏を食べるか、",
   "yt": "https://youtu.be/oLm1gZ5TUSo",
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7643488875352050965?is_from_webapp=1&sender_device=pc",
   "ig": "https://www.instagram.com/reel/DYugyEuMSf6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
