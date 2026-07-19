@@ -149,7 +149,7 @@
    "子供向け",
    "マインドセット"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
@@ -275,8 +275,8 @@
    "マインドセット",
    "複利"
   ],
-  "retention_pct": 63.8,
-  "analytics_views": 1384
+  "retention_pct": 63.6,
+  "analytics_views": 1385
  },
  {
   "sid": "VID-69",
@@ -311,8 +311,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 0.0,
-  "analytics_views": 2
+  "retention_pct": 18.5,
+  "analytics_views": 3
  },
  {
   "sid": "VID-66",
@@ -675,8 +675,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647612451713781012",
   "ig": "",
   "tags": [],
-  "retention_pct": 63.8,
-  "analytics_views": 1384
+  "retention_pct": 63.6,
+  "analytics_views": 1385
  },
  {
   "sid": "VID-36",
@@ -1038,8 +1038,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 20.4,
-  "analytics_views": 387
+  "retention_pct": 20.2,
+  "analytics_views": 388
  },
  {
   "sid": "VID-1",
