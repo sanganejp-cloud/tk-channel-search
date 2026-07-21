@@ -39,8 +39,8 @@
    "家計",
    "子供向け"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 4.0,
+  "analytics_views": 1
  },
  {
   "sid": "VID-101",
@@ -54,8 +54,8 @@
    "家計",
    "マインドセット"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 4.0,
+  "analytics_views": 1
  },
  {
   "sid": "VID-100",
@@ -192,8 +192,8 @@
    "家計",
    "複利"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 0.0,
+  "analytics_views": 1
  },
  {
   "sid": "VID-78",
