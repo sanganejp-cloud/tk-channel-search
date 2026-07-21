@@ -68,8 +68,8 @@
    "子供向け",
    "家計"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 29.7,
+  "analytics_views": 3
  },
  {
   "sid": "VID-92",
@@ -95,7 +95,7 @@
    "子供向け",
    "マインドセット"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
@@ -135,8 +135,8 @@
    "子供向け",
    "税金"
   ],
-  "retention_pct": 0.0,
-  "analytics_views": 0
+  "retention_pct": 96.2,
+  "analytics_views": 1
  },
  {
   "sid": "VID-84",
