@@ -11,8 +11,8 @@
    "節約",
    "子供向け"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 0.7,
+  "analytics_views": 1
  },
  {
   "sid": "VID-108",
@@ -24,7 +24,7 @@
   "tags": [
    "マインドセット"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
@@ -120,7 +120,7 @@
    "マインドセット",
    "税金"
   ],
-  "retention_pct": 0,
+  "retention_pct": 0.0,
   "analytics_views": 0
  },
  {
