@@ -11,8 +11,8 @@
    "節約",
    "子供向け"
   ],
-  "retention_pct": 0.7,
-  "analytics_views": 1
+  "retention_pct": 15.6,
+  "analytics_views": 2
  },
  {
   "sid": "VID-108",
@@ -149,8 +149,8 @@
    "子供向け",
    "マインドセット"
   ],
-  "retention_pct": 0.0,
-  "analytics_views": 0
+  "retention_pct": 19.7,
+  "analytics_views": 1
  },
  {
   "sid": "VID-83",
@@ -166,7 +166,7 @@
    "親世代向け"
   ],
   "retention_pct": 64.1,
-  "analytics_views": 1
+  "analytics_views": 2
  },
  {
   "sid": "VID-81",
@@ -204,7 +204,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 9.6,
-  "analytics_views": 3
+  "analytics_views": 4
  },
  {
   "sid": "VID-76",
@@ -288,8 +288,8 @@
    "マインドセット",
    "複利"
   ],
-  "retention_pct": 63.6,
-  "analytics_views": 1385
+  "retention_pct": 63.5,
+  "analytics_views": 1386
  },
  {
   "sid": "VID-69",
@@ -325,7 +325,7 @@
    "親世代向け"
   ],
   "retention_pct": 18.5,
-  "analytics_views": 3
+  "analytics_views": 4
  },
  {
   "sid": "VID-66",
@@ -438,7 +438,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 55.1,
-  "analytics_views": 482
+  "analytics_views": 483
  },
  {
   "sid": "VID-57",
@@ -448,8 +448,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647773696341413140",
   "ig": "",
   "tags": [],
-  "retention_pct": 70.0,
-  "analytics_views": 16
+  "retention_pct": 63.0,
+  "analytics_views": 18
  },
  {
   "sid": "VID-56",
@@ -459,8 +459,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647773101907791125",
   "ig": "",
   "tags": [],
-  "retention_pct": 28.8,
-  "analytics_views": 1125
+  "retention_pct": 28.9,
+  "analytics_views": 1126
  },
  {
   "sid": "VID-55",
@@ -688,8 +688,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647612451713781012",
   "ig": "",
   "tags": [],
-  "retention_pct": 63.6,
-  "analytics_views": 1385
+  "retention_pct": 63.5,
+  "analytics_views": 1386
  },
  {
   "sid": "VID-36",
@@ -1051,8 +1051,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 20.2,
-  "analytics_views": 388
+  "retention_pct": 20.5,
+  "analytics_views": 389
  },
  {
   "sid": "VID-1",
