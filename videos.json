@@ -118,7 +118,7 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7679840671116594440",
   "ig": "https://www.instagram.com/reel/Dcqyta8s90W/",
   "tags": [],
-  "retention_pct": 45.8,
+  "retention_pct": 45.9,
   "analytics_views": 1187
  },
  {
@@ -326,7 +326,7 @@
    "複利"
   ],
   "retention_pct": 63.0,
-  "analytics_views": 1391
+  "analytics_views": 1392
  },
  {
   "sid": "VID-69",
@@ -390,7 +390,7 @@
    "子供向け"
   ],
   "retention_pct": 36.5,
-  "analytics_views": 17
+  "analytics_views": 18
  },
  {
   "sid": "VID-64",
@@ -703,8 +703,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7647617274743901461",
   "ig": "",
   "tags": [],
-  "retention_pct": 33.8,
-  "analytics_views": 1121
+  "retention_pct": 33.7,
+  "analytics_views": 1123
  },
  {
   "sid": "VID-38",
@@ -726,7 +726,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 63.0,
-  "analytics_views": 1391
+  "analytics_views": 1392
  },
  {
   "sid": "VID-36",
@@ -829,8 +829,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 4.2,
-  "analytics_views": 2
+  "retention_pct": 4.8,
+  "analytics_views": 3
  },
  {
   "sid": "VID-24",
@@ -1103,6 +1103,6 @@
    "子供向け"
   ],
   "retention_pct": 35.7,
-  "analytics_views": 344
+  "analytics_views": 345
  }
 ]
