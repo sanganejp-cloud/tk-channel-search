@@ -362,7 +362,7 @@
    "親世代向け"
   ],
   "retention_pct": 18.5,
-  "analytics_views": 4
+  "analytics_views": 5
  },
  {
   "sid": "VID-66",
@@ -1073,8 +1073,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 26.5,
-  "analytics_views": 255
+  "retention_pct": 31.2,
+  "analytics_views": 257
  },
  {
   "sid": "VID-2",
@@ -1102,7 +1102,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 35.7,
-  "analytics_views": 345
+  "retention_pct": 35.1,
+  "analytics_views": 299
  }
 ]
