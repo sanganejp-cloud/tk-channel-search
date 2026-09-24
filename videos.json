@@ -110,8 +110,8 @@
    "親世代向け",
    "子供向け"
   ],
-  "retention_pct": 120.5,
-  "analytics_views": 1265
+  "retention_pct": 119.5,
+  "analytics_views": 1278
  },
  {
   "sid": "VID-92",
@@ -698,7 +698,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 51.8,
-  "analytics_views": 988
+  "analytics_views": 989
  },
  {
   "sid": "VID-40",
@@ -1060,8 +1060,8 @@
    "複利",
    "マインドセット"
   ],
-  "retention_pct": 58.3,
-  "analytics_views": 103
+  "retention_pct": 61.6,
+  "analytics_views": 68
  },
  {
   "sid": "VID-4",
@@ -1074,7 +1074,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 40.5,
+  "retention_pct": 39.4,
   "analytics_views": 17
  },
  {
@@ -1090,7 +1090,7 @@
    "親世代向け"
   ],
   "retention_pct": 89.0,
-  "analytics_views": 12
+  "analytics_views": 11
  },
  {
   "sid": "VID-2",
@@ -1104,8 +1104,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 12.2,
-  "analytics_views": 50
+  "retention_pct": 12.5,
+  "analytics_views": 49
  },
  {
   "sid": "VID-1",
@@ -1118,7 +1118,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 24.7,
-  "analytics_views": 28
+  "retention_pct": 25.5,
+  "analytics_views": 27
  }
 ]
