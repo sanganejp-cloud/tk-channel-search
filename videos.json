@@ -110,8 +110,8 @@
    "親世代向け",
    "子供向け"
   ],
-  "retention_pct": 119.5,
-  "analytics_views": 1278
+  "retention_pct": 119.6,
+  "analytics_views": 1282
  },
  {
   "sid": "VID-92",
@@ -959,8 +959,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 32.4,
-  "analytics_views": 912
+  "retention_pct": 70.9,
+  "analytics_views": 11
  },
  {
   "sid": "VID-14",
@@ -970,8 +970,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7644850216079723796",
   "ig": "https://www.instagram.com/reel/DY3_1uaMjgK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   "tags": [],
-  "retention_pct": 54.2,
-  "analytics_views": 288
+  "retention_pct": 58.8,
+  "analytics_views": 172
  },
  {
   "sid": "VID-10",
@@ -985,8 +985,8 @@
    "不動産",
    "投資"
   ],
-  "retention_pct": 53.3,
-  "analytics_views": 512
+  "retention_pct": 50.2,
+  "analytics_views": 172
  },
  {
   "sid": "VID-9",
@@ -1016,8 +1016,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 62.1,
-  "analytics_views": 1635
+  "retention_pct": 66.1,
+  "analytics_views": 967
  },
  {
   "sid": "VID-7",
@@ -1031,8 +1031,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 176.1,
-  "analytics_views": 527
+  "retention_pct": 59.5,
+  "analytics_views": 110
  },
  {
   "sid": "VID-6",
@@ -1045,8 +1045,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 17.8,
-  "analytics_views": 339
+  "retention_pct": 29.7,
+  "analytics_views": 6
  },
  {
   "sid": "VID-5",
@@ -1060,8 +1060,8 @@
    "複利",
    "マインドセット"
   ],
-  "retention_pct": 61.6,
-  "analytics_views": 68
+  "retention_pct": 79.8,
+  "analytics_views": 9
  },
  {
   "sid": "VID-4",
@@ -1074,8 +1074,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 39.4,
-  "analytics_views": 17
+  "retention_pct": 42.9,
+  "analytics_views": 15
  },
  {
   "sid": "VID-3",
@@ -1089,8 +1089,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 89.0,
-  "analytics_views": 11
+  "retention_pct": 73.4,
+  "analytics_views": 10
  },
  {
   "sid": "VID-2",
@@ -1104,8 +1104,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 12.5,
-  "analytics_views": 49
+  "retention_pct": 14.1,
+  "analytics_views": 41
  },
  {
   "sid": "VID-1",
@@ -1118,7 +1118,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 25.5,
-  "analytics_views": 27
+  "retention_pct": 26.3,
+  "analytics_views": 23
  }
 ]
