@@ -109,8 +109,8 @@
    "親世代向け",
    "家計"
   ],
-  "retention_pct": 0,
-  "analytics_views": 0
+  "retention_pct": 106.9,
+  "analytics_views": 163
  },
  {
   "sid": "VID-93",
@@ -125,8 +125,8 @@
    "親世代向け",
    "子供向け"
   ],
-  "retention_pct": 119.6,
-  "analytics_views": 1282
+  "retention_pct": 119.4,
+  "analytics_views": 1279
  },
  {
   "sid": "VID-92",
@@ -834,8 +834,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 80.7,
-  "analytics_views": 350
+  "retention_pct": 70.0,
+  "analytics_views": 6
  },
  {
   "sid": "VID-29",
@@ -859,8 +859,8 @@
   "tt": "https://www.tiktok.com/@threebrosdaddytk/video/7645962107745357077",
   "ig": "https://www.instagram.com/reel/DZB99oGsGV1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   "tags": [],
-  "retention_pct": 67.8,
-  "analytics_views": 59
+  "retention_pct": 68.8,
+  "analytics_views": 18
  },
  {
   "sid": "VID-26",
@@ -916,8 +916,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 68.3,
-  "analytics_views": 13
+  "retention_pct": 63.0,
+  "analytics_views": 9
  },
  {
   "sid": "VID-21",
@@ -931,8 +931,8 @@
    "子供向け",
    "親世代向け"
   ],
-  "retention_pct": 53.8,
-  "analytics_views": 7
+  "retention_pct": 64.5,
+  "analytics_views": 6
  },
  {
   "sid": "VID-20",
@@ -945,8 +945,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 55.9,
-  "analytics_views": 13
+  "retention_pct": 57.3,
+  "analytics_views": 8
  },
  {
   "sid": "VID-19",
@@ -959,8 +959,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 27.1,
-  "analytics_views": 61
+  "retention_pct": 32.4,
+  "analytics_views": 4
  },
  {
   "sid": "VID-18",
@@ -973,8 +973,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 106.0,
-  "analytics_views": 9
+  "retention_pct": 34.3,
+  "analytics_views": 2
  },
  {
   "sid": "VID-17",
@@ -989,7 +989,7 @@
    "親世代向け"
   ],
   "retention_pct": 102.8,
-  "analytics_views": 4
+  "analytics_views": 3
  },
  {
   "sid": "VID-14",
@@ -1000,7 +1000,7 @@
   "ig": "https://www.instagram.com/reel/DY3_1uaMjgK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
   "tags": [],
   "retention_pct": 17.5,
-  "analytics_views": 9
+  "analytics_views": 8
  },
  {
   "sid": "VID-10",
@@ -1015,7 +1015,7 @@
    "投資"
   ],
   "retention_pct": 48.1,
-  "analytics_views": 7
+  "analytics_views": 4
  },
  {
   "sid": "VID-9",
@@ -1029,8 +1029,8 @@
    "投資",
    "マインドセット"
   ],
-  "retention_pct": 72.3,
-  "analytics_views": 17
+  "retention_pct": 104.7,
+  "analytics_views": 13
  },
  {
   "sid": "VID-8",
@@ -1046,7 +1046,7 @@
    "親世代向け"
   ],
   "retention_pct": 73.4,
-  "analytics_views": 12
+  "analytics_views": 11
  },
  {
   "sid": "VID-7",
@@ -1061,7 +1061,7 @@
    "親世代向け"
   ],
   "retention_pct": 67.5,
-  "analytics_views": 10
+  "analytics_views": 9
  },
  {
   "sid": "VID-6",
@@ -1074,8 +1074,8 @@
    "マインドセット",
    "親世代向け"
   ],
-  "retention_pct": 7.5,
-  "analytics_views": 5
+  "retention_pct": 8.4,
+  "analytics_views": 3
  },
  {
   "sid": "VID-5",
@@ -1090,7 +1090,7 @@
    "マインドセット"
   ],
   "retention_pct": 68.6,
-  "analytics_views": 6
+  "analytics_views": 5
  },
  {
   "sid": "VID-4",
@@ -1119,7 +1119,7 @@
    "親世代向け"
   ],
   "retention_pct": 69.0,
-  "analytics_views": 8
+  "analytics_views": 7
  },
  {
   "sid": "VID-2",
@@ -1133,8 +1133,8 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 11.2,
-  "analytics_views": 32
+  "retention_pct": 11.9,
+  "analytics_views": 29
  },
  {
   "sid": "VID-1",
@@ -1147,7 +1147,7 @@
    "投資",
    "子供向け"
   ],
-  "retention_pct": 13.9,
-  "analytics_views": 15
+  "retention_pct": 15.2,
+  "analytics_views": 13
  }
 ]
