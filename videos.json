@@ -65,8 +65,8 @@
    "家計",
    "子供向け"
   ],
-  "retention_pct": 4.0,
-  "analytics_views": 1
+  "retention_pct": 0.0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-105",
@@ -94,8 +94,8 @@
    "家計",
    "マインドセット"
   ],
-  "retention_pct": 4.0,
-  "analytics_views": 1
+  "retention_pct": 0.0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-100",
@@ -288,8 +288,8 @@
    "家計",
    "複利"
   ],
-  "retention_pct": 0.0,
-  "analytics_views": 1
+  "retention_pct": 0,
+  "analytics_views": 0
  },
  {
   "sid": "VID-78",
@@ -796,7 +796,7 @@
   "ig": "",
   "tags": [],
   "retention_pct": 43.3,
-  "analytics_views": 11
+  "analytics_views": 12
  },
  {
   "sid": "VID-34",
